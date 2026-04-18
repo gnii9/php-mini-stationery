@@ -79,4 +79,4 @@ Bài toán này phù hợp với Week 1 vì dữ liệu có thể lưu bằng ar
 - Validation form khi thêm sách
 - Giao diện responsive với Pico CSS
 - Tự động tăng ID khi thêm sách mới
-- Chuyển hướng sau khi thêm sách thành công
+- Chuyển hướng sau khi thêm sách thành công# php-mini-stationery
