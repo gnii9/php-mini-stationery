@@ -1,0 +1,6 @@
+{
+    "name": "student/php-mini-stattionery", //khai bao ten du an cho composer
+    "description": "Week 1 lab - PHP Mini Stationery Store App", //khai bao mo ta du an
+    "type": "project", //khai bao loai du an
+    "require": {} //khai bao cac goi thu vien can thiet
+}
